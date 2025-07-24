@@ -1,0 +1,22 @@
+C# Temel Değişkenler ve Konsol Uygulamaları
+
+Bu proje, C# dilinde temel değişken tipleri, kullanıcıdan veri alma ve hesaplama işlemlerini öğrenmek amacıyla geliştirilmiştir. Kod, Visual Studio ile konsol uygulaması formatında yazılmıştır.
+
+Bu projede aşağıdaki C# konuları örneklerle kullanılmıştır:
+
+- `string`, `int`, `double`, `char` değişken kullanımı
+- `Console.WriteLine()` ve `Console.ReadLine()` ile kullanıcı etkileşimi
+- Klavyeden tam sayı, ondalıklı sayı ve karakter alma
+- Basit alışveriş hesaplamaları
+- Ortalama hesaplama (sınav notları)
+- Formatlı çıktı verme
+
+> Basit ürün fiyat hesaplamaları, kullanıcı girişleri ve not ortalaması örnekleri içerir.
+
+Bu proje, GitHub’daki [@MuratYucedag](https://github.com/MuratYucedag) adlı yazılım eğitmeninin **C# Eğitim Serisi** videoları izlenerek geliştirilmiştir.
+
+Kendisine katkılarından dolayı teşekkür ederim 🙏
+
+## 🔧 Gereksinimler
+- .NET Framework / .NET Core yüklü olmalı
+- Visual Studio 2019 veya üzeri önerilir
